@@ -4,6 +4,11 @@ A full-stack trading signal tracker with live Binance price integration, automat
 
 ---
 
+## Live Demo
+- Frontend: https://trading-signal-frontend-s6hd.onrender.com
+- Backend API: https://trading-signal-backend-3f4g.onrender.com/docs
+
+
 ## Tech Stack
 
 | Layer     | Technology                        |
