@@ -8,6 +8,9 @@ A full-stack trading signal tracker with live Binance price integration, automat
 - Frontend: https://trading-signal-frontend-s6hd.onrender.com
 - Backend API: https://trading-signal-backend-3f4g.onrender.com/docs
 
+## Demo Video Link 
+- https://drive.google.com/file/d/1v92RWVyk3fQ0mDmwMUmZqXA8jZBQdn2z/view?usp=drivesdk
+
 
 ## Tech Stack
 
